@@ -1,4 +1,4 @@
-# Learn QML Home
+# Learn Qt QML Home
 
 ## Introduction
 These projects are made to practice all aspects of QML. The list below contains WebAssembly (WASM) runnable executables for everyone to play with.
@@ -12,8 +12,9 @@ Each project has its own code repo and WebAssembly repo with their own readme an
 - AsteroidsCanvasQml: https://nepa1234software.github.io/AsteroidsCanvasQml-WebAssembly-SingleThreaded/appAsteroidsQml.html
 
 
-## Coming soon (no WASM)
+## QML Coming soon (no WASM)
 - LearnParticles2dQML
-- LearnLocation
+- LearnLocationQML
 
-
+## Other interesting learn projects
+- Learning_OpenGL_Qt  (Qt C++)
