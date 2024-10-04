@@ -10,6 +10,7 @@ Each project has its own code repo and WebAssembly repo with their own readme an
 - LearnAnimationQML: https://nepa1234software.github.io/LearnAnimationQML-WebAssembly/appLearnAnimationQML.html
 - LearnLayoutsQML: https://nepa1234software.github.io/LearnLayoutsQML-WebAssembly/appLearnLayoutsQML.html
 - AsteroidsCanvasQml: https://nepa1234software.github.io/AsteroidsCanvasQml-WebAssembly-SingleThreaded/appAsteroidsQml.html
+- LearnTableViewDelegateReuseQML: https://nepa1234software.github.io/LearnTableViewDelegateReuseQML-WebAssembly/appLearnTableViewPoolDemoQML.html
 
 
 ## QML Coming soon (no WASM)
